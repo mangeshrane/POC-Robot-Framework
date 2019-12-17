@@ -1,0 +1,5 @@
+#repositories page
+username_field: id=user_login
+password_field: id=user_pass
+login_button: name=wp-submit
+remember_me_checkbox: id=rememberme

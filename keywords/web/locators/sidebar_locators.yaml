@@ -1,0 +1,9 @@
+sb_dashboard_link: xpath=//div[@text='Dashboard']
+sb_home_link: link=Home
+sb_Updates: partial link=Updates
+sb_media: xpath=//div[@text='Media']
+sb_posts: xpath=//div[@text='Posts']
+sb_pages: xpath=//div[@text='Pages']
+sb_pages_allPages: link=All Pages
+sb_pages_newPage: link=New Page
+sb_comments: xpath=//div[@text='Comments']
