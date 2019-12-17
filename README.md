@@ -14,7 +14,7 @@ Robot framework POC for Web-UI tests
     
 3. Cloning project
     
-    `git clone <>`
+    `git clone https://github.com/mangeshrane/POC-Robot-Framework.git`
     
 3. Install project dependencies
     open terminal in project directory
