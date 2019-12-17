@@ -22,7 +22,7 @@ Robot framework POC for Web-UI tests
     
 4. To activate this project's virtualenv
  
-    `run pipenv shell`
+    run `pipenv shell`
     
     Alternatively, run a command inside the virtualenv with `pipenv run <command>`
 
@@ -46,6 +46,9 @@ Robot framework POC for Web-UI tests
 2. running tests using python module
 
         `python -m robot path/to/tests`
+
+3. Specifying variables runtime
+	`robot -v VARIABLE:value path/to/test.robot`
     
     
 ## Notes 
