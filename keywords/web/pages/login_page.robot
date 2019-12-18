@@ -12,7 +12,6 @@ Login to application
     Input Password    ${password}
     Submit Credentials
 
-*** Keywords ***
 Wait till login page is ready
     [Documentation]    Waits until login page is empty
     Wait Until Page Contains Element    ${username_field}    timeout=None    error=None

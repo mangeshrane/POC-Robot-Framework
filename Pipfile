@@ -15,6 +15,7 @@ robotframework-seleniumlibrary = "*"
 webdrivermanager = "*"
 docutils = "*"
 webdriver-manager = "*"
+robotframework-pabot = "*"
 
 [requires]
 python_version = "3.7"
