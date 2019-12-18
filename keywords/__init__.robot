@@ -1,2 +1,2 @@
-*** Settings ***
+**** Settings ***
 Documentation    User specific keywords

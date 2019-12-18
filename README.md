@@ -18,11 +18,11 @@ Robot framework POC for Web-UI tests
     
 3. Install project dependencies
     open terminal in project directory
-    run `pipenv install`
+    run  `pipenv install`
     
 4. To activate this project's virtualenv
  
-    run `pipenv shell`
+    run  `pipenv shell`
     
     Alternatively, run a command inside the virtualenv with `pipenv run <command>`
 
@@ -38,25 +38,31 @@ Robot framework POC for Web-UI tests
 ## Running test suites
     
     `robot testcases`
-
+    
 1. running tests with tags
-
-        `robot --include smoke --name "Smoke Tests" path/to/tests.robot`
+    
+    `robot --include smoke --name "Smoke Tests" path/to/tests.robot`
 
 2. running tests using python module
 
-        `python -m robot path/to/tests`
+    `python -m robot path/to/tests`
 
 3. Specifying variables runtime
+
 	`robot -v VARIABLE:value path/to/test.robot`
     
+4. Running test suites in parallel
+
+    `pabot testsuites`
     
 ## Notes 
 
 1. Test Case file types other than *.robot are depricated from robot version 3.0.* +
 2. To run legacy files using newer version of Robot we Can use --extension ROBOT:rst option to specify type explicitly
 	or change the existing suite file into new Robot file 
-	using `python -m robot.tidy --inplace [options] inputfile [more input files]`
+	using 
+	
+	`python -m robot.tidy --inplace [options] inputfile [more input files]`
 
 
 ## References
