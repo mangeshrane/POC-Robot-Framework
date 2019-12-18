@@ -5,3 +5,4 @@ rebot --name Login --outputdir out --output login.xml out/fx.xml out/ie.xml
 
 
 # example of startup bash script
+
