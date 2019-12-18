@@ -3,8 +3,8 @@ browser: chrome
 username: opensourcecms
 password: opensourcecms
 
-login_title: Log In ‹ Inspe — WordPress
-dashboard_title: Dashboard ‹ Inspe — WordPress
+login_title: Log In ‹ opensourcecms — WordPress
+dashboard_title: Dashboard ‹ opensourcecms — WordPress
 
 explicit_timeout: 10s
 

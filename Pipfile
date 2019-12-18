@@ -14,6 +14,7 @@ PyYAML = "*"
 robotframework-seleniumlibrary = "*"
 webdrivermanager = "*"
 docutils = "*"
+webdriver-manager = "*"
 
 [requires]
 python_version = "3.7"

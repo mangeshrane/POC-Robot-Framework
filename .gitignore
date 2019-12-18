@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# pyenv
+.python-version
+
+#robot
+*.html
+*.xml
+*.log
+*.png
+
+#ide
+.project
+.pydevproject
+.idea
+red.xml
+libspecs

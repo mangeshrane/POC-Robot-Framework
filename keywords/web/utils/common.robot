@@ -19,7 +19,7 @@ Open Chrome Browser
     [Arguments]    ${url}=False
     [Documentation]    Open Chrome Browser with headless mode
     ${chrome_options}=    Set Chrome Options
-    ${chromedriver}=    set chrome driver
+    ${chromedriver}=  Get chrome driver path
     Create Webdriver    Chrome    executable_path=${chromedriver}    chrome_options=${chrome_options}
     Maximize Browser Window
     Go To    ${url}
