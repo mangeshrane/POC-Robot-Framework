@@ -11,6 +11,8 @@ __pycache__/
 *.xml
 *.log
 *.png
+pabot_results
+.pabotsuitenames
 
 #ide
 .project
@@ -18,3 +20,4 @@ __pycache__/
 .idea
 red.xml
 libspecs
+.settings

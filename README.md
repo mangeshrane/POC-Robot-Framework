@@ -1,6 +1,6 @@
 # POC - ROBOT FRAMEWORK 
 
-Robot framework POC for Web-UI tests
+Robot framework POC for Web and API tests
 
 **SETTING UP PROJECT**
 
@@ -71,4 +71,4 @@ Robot framework POC for Web-UI tests
 2. https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html
 3. https://github.com/robotframework/SeleniumLibrary/blob/master/docs
 4. https://pipenv.readthedocs.io/en/latest/
-    
+5. https://bulkan.github.io/robotframework-requests/doc/RequestsLibrary.html

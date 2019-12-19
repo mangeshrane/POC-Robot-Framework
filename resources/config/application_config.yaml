@@ -1,4 +1,5 @@
 url: https://s1.demo.opensourcecms.com/wordpress/wp-admin/
+server_url: https://reqres.in
 browser: chrome
 username: opensourcecms
 password: opensourcecms

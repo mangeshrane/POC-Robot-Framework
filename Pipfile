@@ -16,6 +16,8 @@ webdrivermanager = "*"
 docutils = "*"
 webdriver-manager = "*"
 robotframework-pabot = "*"
+restinstance = "*"
+robotframework-jsonlibrary = "*"
 
 [requires]
 python_version = "3.7"

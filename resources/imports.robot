@@ -1,6 +1,5 @@
 *** Settings ***
 Library     SeleniumLibrary
-Library     RequestsLibrary
 Library     OperatingSystem
 Library  ../core/driver_manager.py
 Library  driver_manager.WebdriverManager
