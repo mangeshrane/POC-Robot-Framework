@@ -1,0 +1,2 @@
+[ WARN ] Collapsing consecutive whitespace during parsing is deprecated. Fix ' *** Settings ***' in file 'D:\py_project\Robot-Framework\POC-Robot-Framework\testcases\web\__init__.robot' on line 1.
+[ WARN ] Imported library 'D:\py_project\Robot-Framework\POC-Robot-Framework\core\driver_manager.py' contains no keywords.

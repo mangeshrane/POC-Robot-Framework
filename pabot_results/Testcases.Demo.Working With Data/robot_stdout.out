@@ -1,0 +1,41 @@
+==============================================================================
+Testcases                                                                     
+==============================================================================
+Testcases.Demo                                                                
+==============================================================================
+Testcases.Demo.Working With Data                                              
+==============================================================================
+Creating list and printing each item                                  | PASS |
+------------------------------------------------------------------------------
+Interating over list                                                  | PASS |
+------------------------------------------------------------------------------
+Iterating over a range                                                | PASS |
+------------------------------------------------------------------------------
+Enumerating over list                                                 | PASS |
+------------------------------------------------------------------------------
+Creating dictionary and printing items in report                      | PASS |
+------------------------------------------------------------------------------
+Setting changing existing key value of dictionary                     {'name': 'awesome framework', 'version': '3.x', 'type': 'keyword driven'}
+| PASS |
+------------------------------------------------------------------------------
+Get Dictionary Keys Sorted                                            | PASS |
+------------------------------------------------------------------------------
+Get Dictionary Keys Unsorted                                          | PASS |
+------------------------------------------------------------------------------
+Printing start program :: Printing * * * * * *                        | PASS |
+------------------------------------------------------------------------------
+Sorting list                                                          | PASS |
+------------------------------------------------------------------------------
+Testcases.Demo.Working With Data                                      | PASS |
+10 critical tests, 10 passed, 0 failed
+10 tests total, 10 passed, 0 failed
+==============================================================================
+Testcases.Demo                                                        | PASS |
+10 critical tests, 10 passed, 0 failed
+10 tests total, 10 passed, 0 failed
+==============================================================================
+Testcases                                                             | PASS |
+10 critical tests, 10 passed, 0 failed
+10 tests total, 10 passed, 0 failed
+==============================================================================
+Output:  D:\py_project\Robot-Framework\POC-Robot-Framework\pabot_results\Testcases.Demo.Working With Data\output.xml

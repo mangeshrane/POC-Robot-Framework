@@ -1,0 +1,26 @@
+==============================================================================
+Testcases                                                                     
+==============================================================================
+Testcases.Web :: Example suite                                                
+==============================================================================
+Testcases.Web.Login Tests :: Tests to verify wordpress login with valid and...
+==============================================================================
+Test Login into the application with valid credentials                | PASS |
+------------------------------------------------------------------------------
+Test Login into the application with invalid credentials              | PASS |
+------------------------------------------------------------------------------
+Test Login into the application with blank creadentials               | PASS |
+------------------------------------------------------------------------------
+Testcases.Web.Login Tests :: Tests to verify wordpress login with ... | PASS |
+3 critical tests, 3 passed, 0 failed
+3 tests total, 3 passed, 0 failed
+==============================================================================
+Testcases.Web :: Example suite                                        | PASS |
+3 critical tests, 3 passed, 0 failed
+3 tests total, 3 passed, 0 failed
+==============================================================================
+Testcases                                                             | PASS |
+3 critical tests, 3 passed, 0 failed
+3 tests total, 3 passed, 0 failed
+==============================================================================
+Output:  D:\py_project\Robot-Framework\POC-Robot-Framework\pabot_results\Testcases.Web.Login Tests\output.xml

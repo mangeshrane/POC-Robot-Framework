@@ -1,0 +1,6 @@
+datasources:247f4dfd2fbe4c1b32f7f2a78c2bad378b863723
+commandlineoptions:97d170e1550eee4afc0af065b78cda302a97674c
+suitesfrom:no-suites-from-option
+file:ec397c2f1f53db6f87687448fa64ae025af57fab
+--suite Testcases.Demo.Working With Data
+--suite Testcases.Web.Login Tests
